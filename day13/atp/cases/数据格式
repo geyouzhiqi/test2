@@ -1,0 +1,8 @@
+从excel中返回的数据：
+[['http://api.nnzhp.cn/api/user/login', 'POST', 'username=niuhanyang&passwd=aA123456', 'error_code=0,userId=1'],
+ ['http://api.nnzhp.cn/api/user/login', 'POST', 'passwd=123456', 'error_code=3001'],
+  ['http://api.nnzhp.cn/api/user/login', 'POST', 'username=niuhanyang', 'error_code=3008']]
+
+
+从myquest返回的数据：
+{'staus': '1', 'data': {'error_code': 0, 'login_info': {'login_time': '20201128105307', 'sign': '5ed962cc2289b8fd14d312d3c0c1fa84', 'userId': 47749}}}
